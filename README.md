@@ -7,3 +7,5 @@ If you feel there are papers with related topics missing, do not hesitate to let
 2. [EMNLP 2020] **SetConv: A New Approach for Learning from Imbalanced Data** [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.98/)[[code]](https://github.com/AlenUbuntu/SetConv)
 3. [NeurIPS 2017] **Prototypical Networks for Few-shot Learning** [[paper]](https://papers.nips.cc/paper/2017/file/cb8da6767461f2812ae4290eac7cbc42-Paper.pdf)
 4. [NeurIPS 2016] **Matching Networks for One Shot Learning** [[paper]](https://arxiv.org/pdf/1606.04080.pdf)
+5. [arXiv 2019] **GraphMix: Improved Training of GNNs for Semi-Supervised Learning** [[paper]](https://arxiv.org/abs/1909.11715)[[code]](https://github.com/vikasverma1077/GraphMix)
+6. [CIKM 2020] **Graph Prototypical Networks for Few-shot Learning on Attributed Networks** [[paper]](https://arxiv.org/abs/2006.12739)[[code]](https://github.com/kaize0409/GPN_Few-shot)
